@@ -1,0 +1,25 @@
+@charset 'Utf-8';
+
+body{
+    background-color: #0D0D0D;
+}
+h1{
+    color: #254A59;
+    margin: 0;
+}
+h2{
+    text-shadow: 1px 1px 2px #0D0D0D, 0 0 25px #142F40, 0 0 5px #0A1926;
+    color: #0D0D0D;
+}
+.nome{
+    text-shadow: 1px 1px 2px #0D0D0D, 0 0 25px #142F40, 0 0 5px #0A1926;
+}
+a{
+    align-items: center;
+}
+.cor1{
+    background-color: #254A59;
+}
+.container{
+    border-radius: 10px;
+}
